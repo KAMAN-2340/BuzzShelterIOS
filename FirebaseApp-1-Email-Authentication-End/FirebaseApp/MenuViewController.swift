@@ -1,9 +1,4 @@
 //
-//  ViewController.swift
-//  FirebaseDemo
-//
-//  Created by Robert Canton on 2017-09-13.
-//  Copyright © 2017 Robert Canton. All rights reserved.
 //
 
 import UIKit
